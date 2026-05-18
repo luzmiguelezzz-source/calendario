@@ -1,0 +1,4 @@
+{
+  "buildCommand": "mkdir -p pages && cp index.jsx pages/index.jsx && npm run build",
+  "outputDirectory": ".next"
+}
